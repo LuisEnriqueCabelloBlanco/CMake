@@ -1,0 +1,3 @@
+// the configured options and settings for Tutorial
+#define HolaMundo_VERSION_MAJOR @HolaMundo_VERSION_MAJOR@
+#define HolaMundo_VERSION_MINOR @HolaMundo_VERSION_MINOR@
